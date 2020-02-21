@@ -1,4 +1,5 @@
 # vue-music-app
+demo: https://vue-music-player5.netlify.com
 
 ## Project setup
 ```
